@@ -15,9 +15,11 @@ Mix-Supervised Learning: Unifies training and validation data utilization. Label
 Quick Start
 
 Install Dependencies
+
 pip install torch torchvision numpy tqdm
 
 Run Training
+
 Edit DRC_TCO.py to select your model and dataset, then execute:
 
 python DRC_TCO.py
