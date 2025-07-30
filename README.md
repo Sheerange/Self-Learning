@@ -12,13 +12,13 @@ Perceive distribution patterns in validation data without explicit labels. Expan
 
 Mix-Supervised Learning: Unifies training and validation data utilization. Label-Free Adaptation: Models autonomously infer validation data distributions. Plug-and-Play: Compatible with standard CNN/Transformer architectures.
 
-Quick Start
+Quick Start:
 
 Install Dependencies
 
 pip install torch torchvision numpy tqdm
 
-Run Training
+Run Training:
 
 Edit DRC_TCO.py to select your model and dataset, then execute:
 
