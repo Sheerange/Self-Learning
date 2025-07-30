@@ -12,7 +12,6 @@ Perceive distribution patterns in validation data without explicit labels. Expan
 
 Mix-Supervised Learning: Unifies training and validation data utilization. Label-Free Adaptation: Models autonomously infer validation data distributions. Plug-and-Play: Compatible with standard CNN/Transformer architectures.
 
-Quick Start:
 
 Install Dependencies
 
